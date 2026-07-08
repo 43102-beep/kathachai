@@ -1,1 +1,10 @@
-# kathachai
+<html>
+<head>
+<title>
+ยินดีต้อนรับ
+</title>
+</head>
+<body>
+<h1>ยินดีต้อนรับสู่เว็บไซต์ของคฑาชัย</h1>
+</body>
+</html>
